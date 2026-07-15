@@ -1,0 +1,580 @@
+[
+  {
+    "id": 33437,
+    "title": "Alkoholfreie Getränke",
+    "items": [
+      {
+        "name": "Coca Cola 0,3 l",
+        "price": "3,80 €",
+        "description": ""
+      },
+      {
+        "name": "Coca Cola Zero 0,3 l",
+        "price": "3,80 €",
+        "description": ""
+      },
+      {
+        "name": "Paulaner Spezi 0,5 l",
+        "price": "4,50 €",
+        "description": ""
+      },
+      {
+        "name": "Fanta 0,3 l",
+        "price": "3,80 €",
+        "description": ""
+      },
+      {
+        "name": "Orangina gelb/rot 0,25 l",
+        "price": "3,40 €",
+        "description": ""
+      },
+      {
+        "name": "Wasser Still 0,25 l",
+        "price": "2,90 €",
+        "description": ""
+      },
+      {
+        "name": "Wasser Medium 0,25 l",
+        "price": "2,90 €",
+        "description": ""
+      },
+      {
+        "name": "Sprite 0,3 l",
+        "price": "3,80 €",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 33438,
+    "title": "Säfte",
+    "items": [
+      {
+        "name": "Bananensaft 0,3",
+        "price": "3,80 €",
+        "description": ""
+      },
+      {
+        "name": "Apfelsaft 0,3",
+        "price": "3,80 €",
+        "description": ""
+      },
+      {
+        "name": "Orangesaft 0,3",
+        "price": "3,80 €",
+        "description": ""
+      },
+      {
+        "name": "Maracujasaft 0,3",
+        "price": "3,80 €",
+        "description": ""
+      },
+      {
+        "name": "Kirschsaft 0,3",
+        "price": "3,80 €",
+        "description": ""
+      },
+      {
+        "name": "KiBa-Saft 0,3",
+        "price": "3,80 €",
+        "description": "Bananensaft & Kirschsaft"
+      }
+    ]
+  },
+  {
+    "id": 33439,
+    "title": "Elephant Bay Eistee",
+    "items": [
+      {
+        "name": "Peach 0,33 l",
+        "price": "3,80 €",
+        "description": ""
+      },
+      {
+        "name": "Pomegranate 0,33 l",
+        "price": "3,80 €",
+        "description": ""
+      },
+      {
+        "name": "Watermelon 0,33 l",
+        "price": "3,80 €",
+        "description": ""
+      },
+      {
+        "name": "Lemon 0,33 l",
+        "price": "3,80 €",
+        "description": ""
+      },
+      {
+        "name": "Mango 0,33 l",
+        "price": "3,80 €",
+        "description": ""
+      },
+      {
+        "name": "Lemon Mandarin 0,33 l",
+        "price": "3,80 €",
+        "description": ""
+      },
+      {
+        "name": "Peach Zero",
+        "price": "3,80 €",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 33441,
+    "title": "Heiße Getränke",
+    "items": [
+      {
+        "name": "Espresso",
+        "price": "2,50 €",
+        "description": ""
+      },
+      {
+        "name": "Kaffee",
+        "price": "3,00 €",
+        "description": ""
+      },
+      {
+        "name": "Latte Machiato",
+        "price": "3,80 €",
+        "description": ""
+      },
+      {
+        "name": "Cappucino",
+        "price": "3,60 €",
+        "description": ""
+      },
+      {
+        "name": "Heiße Schokolade",
+        "price": "3,80 €",
+        "description": ""
+      },
+      {
+        "name": "Chai Latte",
+        "price": "3,80 €",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 33443,
+    "title": "Cocktail ohne Alkohol",
+    "items": [
+      {
+        "name": "Virgin Caipirinha",
+        "price": "7,00 €",
+        "description": ""
+      },
+      {
+        "name": "Virgin Mojito",
+        "price": "7,00 €",
+        "description": ""
+      },
+      {
+        "name": "Erdbeerinha",
+        "price": "7,00 €",
+        "description": ""
+      },
+      {
+        "name": "Pina Colada",
+        "price": "7,00 €",
+        "description": ""
+      },
+      {
+        "name": "Coconut Kiss",
+        "price": "7,00 €",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 33444,
+    "title": "Cocktails mit Alkohol",
+    "items": [
+      {
+        "name": "Mojito",
+        "price": "8,00 €",
+        "description": "frischer Limettensaft, frische Minzblätter"
+      },
+      {
+        "name": "Pina Colada",
+        "price": "8,00 €",
+        "description": "Rum, Cream of Coconut, Ananassaft,  Eiswürfel"
+      },
+      {
+        "name": "Coconut Kiss",
+        "price": "8,00 €",
+        "description": ""
+      },
+      {
+        "name": "Erdbeerinha",
+        "price": "8,00 €",
+        "description": ""
+      },
+      {
+        "name": "Caipirinha",
+        "price": "8,00 €",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 33445,
+    "title": "Bier",
+    "items": [
+      {
+        "name": "Alpirsbacher Spezial 0,5 l",
+        "price": "4,50 €",
+        "description": ""
+      },
+      {
+        "name": "Corona - Original Mexikanisches Bier 0,35 l",
+        "price": "4,50 €",
+        "description": ""
+      },
+      {
+        "name": "Cola Weizen",
+        "price": "4,50 €",
+        "description": ""
+      },
+      {
+        "name": "Weizenbier",
+        "price": "4,50 €",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 33448,
+    "title": "Alkoholische Getränke",
+    "items": [
+      {
+        "name": "Vodka Bull",
+        "price": "7,00 €",
+        "description": ""
+      },
+      {
+        "name": "Jacky Cola",
+        "price": "7,00 €",
+        "description": ""
+      },
+      {
+        "name": "Chivas Cola",
+        "price": "7,50 €",
+        "description": ""
+      },
+      {
+        "name": "Bacardi",
+        "price": "7,00 €",
+        "description": ""
+      },
+      {
+        "name": "Bacardi Cola",
+        "price": "7,50 €",
+        "description": ""
+      },
+      {
+        "name": "Havana",
+        "price": "6,50 €",
+        "description": ""
+      },
+      {
+        "name": "Gin Tonic",
+        "price": "7,50 €",
+        "description": ""
+      },
+      {
+        "name": "Lillet Blanc mit wild Berry",
+        "price": "7,00 €",
+        "description": ""
+      },
+      {
+        "name": "Weißwein",
+        "price": "5,60 €",
+        "description": "lieblich"
+      },
+      {
+        "name": "Lambrusco",
+        "price": "5,60 €",
+        "description": ""
+      },
+      {
+        "name": "Rotwein",
+        "price": "5,60 €",
+        "description": "halbtrocken"
+      },
+      {
+        "name": "Aperol Spritz",
+        "price": "6,50 €",
+        "description": ""
+      },
+      {
+        "name": "Rosé",
+        "price": "5,60 €",
+        "description": ""
+      },
+      {
+        "name": "Yeni Raki",
+        "price": "6,50 €",
+        "description": ""
+      },
+      {
+        "name": "Tekirdag Raki Gold",
+        "price": "8,50 €",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 33449,
+    "title": "Shots 2cl",
+    "items": [
+      {
+        "name": "Jägermeister",
+        "price": "3,00 €",
+        "description": ""
+      },
+      {
+        "name": "Tequila Silver",
+        "price": "3,00 €",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 33450,
+    "title": "Flaschenpreise 0,7l",
+    "items": [
+      {
+        "name": "Yeni Raki 0,7l",
+        "price": "85,00 €",
+        "description": ""
+      },
+      {
+        "name": "Tekirdag Gold Raki 0,7 L",
+        "price": "95,00 €",
+        "description": ""
+      },
+      {
+        "name": "Jack Daniel´s 0,7l",
+        "price": "100,00 €",
+        "description": ""
+      },
+      {
+        "name": "Chivas 0,7l",
+        "price": "120,00 €",
+        "description": ""
+      },
+      {
+        "name": "Absolut Vodka 0,7l",
+        "price": "85,00 €",
+        "description": ""
+      },
+      {
+        "name": "Weißwein 0,7l",
+        "price": "35,00 €",
+        "description": ""
+      },
+      {
+        "name": "Rosé",
+        "price": "38,00 €",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 33452,
+    "title": "Shishakarte",
+    "items": [
+      {
+        "name": "Persischer Apfel",
+        "price": "13,00 €",
+        "description": "Süßer Apfel"
+      },
+      {
+        "name": "Falim",
+        "price": "12,00 €",
+        "description": "Türkischer Kaugummi"
+      },
+      {
+        "name": "Falim Red",
+        "price": "12,00 €",
+        "description": "Türkischer Kaugummi mit Erdbeere"
+      },
+      {
+        "name": "Bruderherz von Al Massiva",
+        "price": "13,00 €",
+        "description": "exotische Drachenfrucht"
+      },
+      {
+        "name": "African Queen",
+        "price": "13,00 €",
+        "description": "Waldbeeren und Traube"
+      },
+      {
+        "name": "Traube- Minze",
+        "price": "12,00 €",
+        "description": ""
+      },
+      {
+        "name": "Black Box von Aqua Mentha",
+        "price": "13,00 €",
+        "description": "Mischung aus pikant-süssen Acai-Beeren kombiniert mit bitterem Guarana und säuerlicher Zitrone."
+      },
+      {
+        "name": "Cold Peach",
+        "price": "13,00 €",
+        "description": "eiskalter Pfirsich"
+      },
+      {
+        "name": "FFM von Babos Tabacco",
+        "price": "13,00 €",
+        "description": "wilden Waldbeeren in Kombination mit Erdbeeren und einem Hauch Kälte."
+      },
+      {
+        "name": "Okolom",
+        "price": "13,00 €",
+        "description": "Limette und Holunder"
+      },
+      {
+        "name": "Love 66",
+        "price": "13,00 €",
+        "description": "fruchtige Maracuja und saftige Melonen"
+      },
+      {
+        "name": "Löwenherz von Al Massiva",
+        "price": "13,00 €",
+        "description": "fruchtige Mischung aus Himbeere, Pfirsich und Drachenfrucht"
+      },
+      {
+        "name": "Sommer im Beirut Al Massiva",
+        "price": "13,00 €",
+        "description": "frisch fruchtiger Mix aus Himbeere, Wassermelone und Zitrone"
+      },
+      {
+        "name": "Ice Kaktuz",
+        "price": "13,00 €",
+        "description": ""
+      },
+      {
+        "name": "Red fall von Aqua Mentha",
+        "price": "13,00 €",
+        "description": "Frische Wassermelone"
+      },
+      {
+        "name": "Black Nana",
+        "price": "13,00 €",
+        "description": "Dunkle, süsse Trauben gemischt mit erfrischender Minze."
+      },
+      {
+        "name": "Ice Bonbon",
+        "price": "15,00 €",
+        "description": ""
+      },
+      {
+        "name": "Doppelapfel",
+        "price": "13,00 €",
+        "description": "traditionelle Mischung aus süßem roten Apfel und herb-säuerlichem grünen Apfel."
+      },
+      {
+        "name": "Cold Blue",
+        "price": "15,00 €",
+        "description": "Eine fruchtig-süße Mischung aus saftiger, vollmundiger Blaubeere gepaart mit einer starken, erfrischenden Ice-/Menthol-Not"
+      }
+    ]
+  },
+  {
+    "id": 36842,
+    "title": "Energy Drink",
+    "items": [
+      {
+        "name": "Red Bull 0,25 l",
+        "price": "4,00 €",
+        "description": ""
+      },
+      {
+        "name": "Red Bull sugarfree 0,25 l",
+        "price": "4,00 €",
+        "description": ""
+      },
+      {
+        "name": "Red Bull Blue 0,25 l",
+        "price": "4,00 €",
+        "description": ""
+      },
+      {
+        "name": "Red Bull white 0,25 l",
+        "price": "4,00 €",
+        "description": ""
+      },
+      {
+        "name": "28 black Acai / Schwarze Dose 0,25 l",
+        "price": "4,00 €",
+        "description": ""
+      },
+      {
+        "name": "Moloko 0,25 l",
+        "price": "4,00 €",
+        "description": ""
+      },
+      {
+        "name": "Moloko Cranberry 0,25 l",
+        "price": "4,00 €",
+        "description": ""
+      },
+      {
+        "name": "Red Bull Yellow 0,25 l",
+        "price": "4,00 €",
+        "description": ""
+      },
+      {
+        "name": "Red Bull Green 0,25 l",
+        "price": "4,00 €",
+        "description": ""
+      },
+      {
+        "name": "Red Bull sea blue 0,25 l",
+        "price": "4,00 €",
+        "description": ""
+      },
+      {
+        "name": "Red Bull orange 0,25 l",
+        "price": "4,00 €",
+        "description": ""
+      }
+    ]
+  },
+  {
+    "id": 36843,
+    "title": "Tee",
+    "items": [
+      {
+        "name": "Kamillentee",
+        "price": "2,90 €",
+        "description": ""
+      },
+      {
+        "name": "Schwarzer Tee",
+        "price": "2,90 €",
+        "description": ""
+      },
+      {
+        "name": "Pfefferminztee",
+        "price": "2,90 €",
+        "description": ""
+      },
+      {
+        "name": "Früchtetee",
+        "price": "2,90 €",
+        "description": ""
+      },
+      {
+        "name": "Kleine Tee",
+        "price": "2,00 €",
+        "description": ""
+      }
+    ]
+  }
+]

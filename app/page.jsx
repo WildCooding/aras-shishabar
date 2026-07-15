@@ -3,6 +3,7 @@ import { useState, useEffect } from "react";
 import { motion, AnimatePresence } from "framer-motion";
 import Image from "next/image";
 import OpeningStatus from "./components/OpeningStatus";
+import MenuSection from "./components/MenuSection";
 import {
   Award,
   Briefcase,
@@ -188,6 +189,7 @@ export default function Home() {
             </a>
             <nav>
               <a href="#angebote">Angebote</a>
+              <a href="#speisekarte">Speisekarte</a>
               <a href="#lounge">Lounge</a>
               <a href="#jobs">Jobs</a>
               <a href="#kontakt">Kontakt</a>
@@ -326,6 +328,8 @@ export default function Home() {
             </figure>
           </div>
         </motion.section>
+
+        <MenuSection />
 
         <motion.section 
           className="section lounge" 
