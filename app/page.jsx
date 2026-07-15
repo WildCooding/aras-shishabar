@@ -56,7 +56,7 @@ const offers = [
   },
   {
     icon: Trophy,
-    title: "Alle WM Spiele Live",
+    title: "Alle WM Spiele",
     price: "Open Air",
     copy: "Live im Außenbereich"
   }
