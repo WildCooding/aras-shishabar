@@ -39,12 +39,12 @@ const offers = [
   {
     icon: Calendar,
     title: "Montag Chill Day",
-    price: "14 EUR",
-    copy: "Jede Shisha plus Red Bull. Der Wochenstart für entspannte Runden."
+    price: "MO",
+    copy: "Jede Shisha plus Red Bull 14€. Der Wochenstart für entspannte Runden."
   },
   {
     icon: Heart,
-    title: "Ladies Day",
+    title: "Donnerstag Ladies Day",
     price: "Do.",
     copy: "Jeden Donnerstag: jede Shisha 10 EUR und alle Cocktails 5 EUR."
   },
@@ -56,9 +56,9 @@ const offers = [
   },
   {
     icon: Trophy,
-    title: "Live Spiele",
+    title: "Alle WM Spiele Live",
     price: "Open Air",
-    copy: "Grosse Spiele werden draußen gezeigt: gute Stimmung, Drinks und gemeinsame Abende."
+    copy: "Live im Außenbereich"
   }
 ];
 
